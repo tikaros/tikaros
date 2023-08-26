@@ -17,9 +17,9 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=tikaros&custom_title=My+GitHub+stats&show_icons=true&theme=dark&hide_border=true&count_private=true&text_color=ffffdf)
 
 ## ℹ️ Check out my life project ...
-## Illenium
-> Illenium is a one-man software development company. Diverse, new and interested in every field.
-### [Discord server](https://discord.illenium.cc)
+## Wale Cloud
+> Wale is an "infinite" and real-time scalable Minecraft cloud that manages itself
+### [Discord server](https://dsc.gg/wale)
 - There you can communicate with the rest of the community
-### [Website](https://illenium.cc)
-- There you will find an overview of Illenium's projects. Have a look around!
+### [Website](https://walecloud.com)
+- There you will find more information of Wale. Have a look around!
