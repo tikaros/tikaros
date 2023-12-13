@@ -13,9 +13,6 @@
   </a>
 </p>
 
-## 📈 Here're My GitHub stats...
-![github stats](https://github-readme-stats.vercel.app/api?username=tikaros&custom_title=My+GitHub+stats&show_icons=true&theme=dark&hide_border=true&count_private=true&text_color=ffffdf)
-
 ## ℹ️ Check out my life project ...
 ## Wale Cloud
 > Wale is an "infinite" and real-time scalable Minecraft cloud that manages itself
